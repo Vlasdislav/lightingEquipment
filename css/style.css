@@ -906,7 +906,7 @@ footer {
     }
 }
 
-@media(max-width: 282px) {
+@media(max-width: 500px) {
     .header-title {
         font-size: 35px;   
     }
