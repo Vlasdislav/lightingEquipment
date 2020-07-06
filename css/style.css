@@ -905,3 +905,13 @@ footer {
         margin: 0;
     }
 }
+
+@media(max-whidth: 282px) {
+    .header-title {
+        font-size: 35px;   
+    }
+    
+    .header-text {
+        whidth: 90%;    
+    }
+}
